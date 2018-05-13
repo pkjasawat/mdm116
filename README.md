@@ -1,2 +1,2 @@
 # mdm116
-MDM repo
+MDM repository
